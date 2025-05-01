@@ -76,7 +76,7 @@ Build a classification model to predict whether a mushroom is **edible (`e`)** o
 ## Project Structure
 
 ```bash
-├── FinalProj.ipynb           # Main notebook with all steps documented
-├── mushrooms.csv             # Original dataset
-├── README.md                 # Project documentation
+├── FinalProj.ipynb           
+├── mushrooms.csv             
+├── README.md                
 
