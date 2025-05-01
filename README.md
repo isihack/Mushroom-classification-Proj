@@ -32,7 +32,7 @@ Build a classification model to predict whether a mushroom is **edible (`e`)** o
   - Poisonous: 48.2%
 - Plotted distribution for transparency
 
-### 3. 📊 Feature Analysis
+### 3. Feature Analysis
 - Used `pd.crosstab` to find features highly correlated with the poisonous class
 - Top predictors included:
   - `odor`
