@@ -4,11 +4,11 @@
 ## Overview  
 This project uses machine learning to classify mushrooms as **edible** or **poisonous** based on 22 categorical features describing physical characteristics. The dataset originates from the **Audubon Society Field Guide to North American Mushrooms** and was donated to the UCI Machine Learning Repository in 1987. Given the real-life consequences of misidentification, this problem is both challenging and impactful.
 
-## 🔍 Problem Statement  
+## Problem Statement  
 **Objective:**  
 Build a classification model to predict whether a mushroom is **edible (`e`)** or **poisonous (`p`)** based on observable traits like odor, gill size, cap shape, and spore print color.
 
-## 📂 Dataset
+## Dataset
 
 - **Samples:** 8,124
 - **Features:** 22 categorical features + 1 target label (`class`)
