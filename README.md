@@ -18,7 +18,7 @@ Build a classification model to predict whether a mushroom is **edible (`e`)** o
   Note: The original "unknown edibility" category was combined with poisonous to ensure safety.
 - **Source:** [https://www.kaggle.com/datasets/uciml/mushroom-classification)
 
-## Steps Followed
+## Steps of Work Done
 
 ### 1. Data Loading & Exploration
 - Loaded and inspected the dataset using `pandas`
